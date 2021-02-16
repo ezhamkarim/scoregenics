@@ -48,7 +48,7 @@ class _MainMenuState extends State<MainMenu> {
           slivers: [
             SliverAppBar(
               backgroundColor: Colors.white,
-              leadingWidth: 600,
+              // leadingWidth: 600,
               leading: Row(
                 children: [
                   Container(
